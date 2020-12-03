@@ -1,0 +1,5 @@
+Name,Surname,Birthday,Tax Payer ID,Salary,Experience,Academic Degree,Taught Course
+Armen,Karapetyan,06/02/1985,AA875462,150000.0,3.0,Professor,Calculus 3
+Karen,Karapetyan,06/04/1956,AD875463,68000.0,1.0,Assistant,Algebra
+Armen,Sargsyan,02/04/1975,AS874569,150000.0,5.0,Professor,Calculus 1
+Artak,Petrosyan,25/10/1965,AD879654,125000.25,6.0,Professor,Differential Equations
